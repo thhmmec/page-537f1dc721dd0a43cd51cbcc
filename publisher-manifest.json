@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2a5bca29e4bc76f74248e43d",
+  "owner": "thhmmec",
+  "repo": "page-537f1dc721dd0a43cd51cbcc",
+  "title": "Miru",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "537f1dc721dd0a43cd51cbcc",
+      "a": "Miru",
+      "b": "免费订阅分享",
+      "entity": "Miru",
+      "brand": "Miru",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "860b8f2a54d2f6ed502478f20aea9b0b7d9066f80a1f0d7ab253996231108109",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端与移动端订阅配置流程略有差异。",
+          "AI_CLIENTS_TITLE": "多端客户端选择",
+          "AI_CLOSING_TEXT": "选定适合设备数量的套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，按指引配置",
+          "AI_DESCRIPTION": "，Miru 提供基础版、旗舰版与团队版三档订阅，覆盖从每月 100GB 到 1000GB 的流量区间，支持 3 至 20 台设备在线。用户可依据设备数量与流媒体、游戏加速需求，在客户端中导入订阅完成配置。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备数量与订阅周期三个角度对比，能更快定位合适档位。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速与全节点原生流媒体解锁，适合对线路有要求的用户。",
+          "AI_FEATURE_TEXT_3": "三档均支持月付与年付，年付分别约合 ¥150、¥350、¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量档位区分",
+          "AI_FEATURE_TITLE_2": "线路与解锁差异",
+          "AI_FEATURE_TITLE_3": "月付年付可切换",
+          "AI_GUIDE_INTRO": "先确认需求，再核对设备，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Miru 面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，可按实际使用场景选择。",
+          "AI_HERO_SUBTITLE": "按需选套餐，按设备配客户端",
+          "AI_HIGHLIGHT_1": "三档流量覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "设备数从 3 台到 20 台灵活选择",
+          "AI_HIGHLIGHT_3": "年付方案折算月费更实惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，可按设备数与流量需求对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量上限、设备数量与线路特性，确认是否满足流媒体或游戏加速需要。",
+          "AI_STEP_TEXT_3": "在对应平台的客户端中按文档导入订阅信息，完成节点与代理配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Miru 订阅套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Miru 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Miru 提供手机、电脑和路由器等多个平台的客户端，具体可用版本以客户端下载页说明为准，安装后通过订阅链接导入配置。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "套餐按订阅周期计费，如需更高流量或更多设备数，可在当前周期结束后选择更高档位，具体操作参考账户管理说明。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付一次性支付全年费用，月均成本低于按月订阅。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "连接设备数怎么计算？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐档位限制，基础版 3 台、旗舰版 5 台、团队版 20 台，同一时间超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "复制订阅链接后，在客户端的订阅管理或配置导入选项中粘贴，更新节点列表即可使用，具体路径参考该客户端的帮助文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e9a78a10a7714db8bc2c962627ff700af44d260e19cb6fcbee7b1c83ec475e0a",
+    "sitemap.xml": "ccdeacccc1fece5a5326664ef23d6fc20dd9763c7d6a96b0dcfe9c598e72b0eb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bbb9a27bfe89a8b0168c1466620aa906630c8047ca0a7155e3acf5f3d3b3e1f2"
+}
